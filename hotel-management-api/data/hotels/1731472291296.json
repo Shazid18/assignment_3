@@ -1,0 +1,41 @@
+{
+  "title": "Hotel Seraton",
+  "description": "Beautiful hill view resort",
+  "images": [
+    "/uploads/images/images-1731473032533-765944957.png",
+    "/uploads/images/images-1731473131243-29646663.png",
+    "/uploads/images/images-1731473131243-888361119.jpeg",
+    "/uploads/images/images-1731473131245-734164282.jpg"
+  ],
+  "guestCount": 6,
+  "bedroomCount": 4,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "pool",
+    "Gym",
+    "Room Service",
+    "Air Conditioning"
+  ],
+  "host": {
+    "name": "Karim Halid",
+    "email": "karim@example.com"
+  },
+  "address": "456 hill Road",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "rooms": [
+    {
+      "roomImage": "https://example.com/images/room1.jpg",
+      "roomTitle": "Ocean View Suite",
+      "bedroomCount": 1
+    },
+    {
+      "roomImage": "https://example.com/images/room2.jpg",
+      "roomTitle": "Garden View Room",
+      "bedroomCount": 2
+    }
+  ],
+  "slug": "hotel-seraton",
+  "id": "1731472291296"
+}

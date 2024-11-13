@@ -1,0 +1,40 @@
+{
+  "title": "Hotel Seraton Coxs Bazar Bangadesh",
+  "description": "Beach view resort",
+  "images": [
+    "/uploads/images/images-1731476818308-268314606.jpg",
+    "/uploads/images/images-1731476818313-565206616.jpg"
+  ],
+  "guestCount": 6,
+  "bedroomCount": 4,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "pool",
+    "Room Service",
+    "Air Conditioning"
+  ],
+  "host": {
+    "name": "Zahid Halid",
+    "email": "zahid@example.com"
+  },
+  "address": "456 hill Road",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "rooms": [
+    {
+      "roomImage": "https://example.com/images/room1.jpg",
+      "roomTitle": "Bautiful Sea View Suite",
+      "bedroomCount": 1,
+      "hotelSlug": "hotel-seraton-coxs-bazar"
+    },
+    {
+      "roomImage": "https://example.com/images/room2.jpg",
+      "roomTitle": "Garden View Room",
+      "bedroomCount": 2,
+      "hotelSlug": "hotel-seraton-coxs-bazar"
+    }
+  ],
+  "slug": "hotel-seraton-coxs-bazar-bangadesh",
+  "id": "1731475375774"
+}

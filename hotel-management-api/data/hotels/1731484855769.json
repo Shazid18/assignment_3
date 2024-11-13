@@ -1,0 +1,49 @@
+{
+  "title": "Hotel Redison Dhaka",
+  "description": "Beautiful hill view resort",
+  "images": [
+    "/uploads/images/images-1731484966403-129851311.jpg",
+    "/uploads/images/images-1731484966409-676581488.jpeg",
+    "/uploads/images/images-1731484966410-887930326.jpg",
+    "/uploads/images/images-1731484966410-123189726.jpg",
+    "/uploads/images/images-1731485004312-778644560.jpg",
+    "/uploads/images/images-1731485004319-911358147.jpeg",
+    "/uploads/images/images-1731485004320-435272366.jpg",
+    "/uploads/images/images-1731485004320-524027705.jpg",
+    "/uploads/images/images-1731485004320-61791051.ts"
+  ],
+  "guestCount": 6,
+  "bedroomCount": 4,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "pool",
+    "Room Service",
+    "Air Conditioning"
+  ],
+  "host": {
+    "name": "Zahid Halid",
+    "email": "zahid@example.com"
+  },
+  "address": "456 hill Road",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "rooms": [
+    {
+      "roomImage": "https://example.com/images/room1.jpg",
+      "roomTitle": "Hill View Suite",
+      "bedroomCount": 1,
+      "roomSlug": "hill-view-suite",
+      "hotelSlug": "hotel-redison-dhaka"
+    },
+    {
+      "roomImage": "https://example.com/images/room2.jpg",
+      "roomTitle": "Green View Room",
+      "bedroomCount": 2,
+      "roomSlug": "green-view-room",
+      "hotelSlug": "hotel-redison-dhaka"
+    }
+  ],
+  "slug": "hotel-redison-dhaka",
+  "id": "1731484855769"
+}

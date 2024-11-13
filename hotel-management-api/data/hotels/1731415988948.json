@@ -1,0 +1,21 @@
+{
+  "title": "Sunset Resort",
+  "description": "Beautiful beachfront resort",
+  "guestCount": 5,
+  "bedroomCount": 3,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "pool"
+  ],
+  "host": {
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "address": "123 Beach Road",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "rooms": [],
+  "slug": "sunset-resort",
+  "id": "1731415988948"
+}

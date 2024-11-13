@@ -1,0 +1,39 @@
+{
+  "title": "Hotel Seraton Khulna",
+  "description": "Beautiful beach view resort",
+  "images": [],
+  "guestCount": 6,
+  "bedroomCount": 4,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "pool",
+    "Room Service",
+    "Air Conditioning"
+  ],
+  "host": {
+    "name": "Zahid Halid",
+    "email": "zahid@example.com"
+  },
+  "address": "456 hill Road",
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "rooms": [
+    {
+      "roomImage": "https://example.com/images/room1.jpg",
+      "roomTitle": "Sea View Suite",
+      "bedroomCount": 1,
+      "hotelSlug": "hotel-seraton-khulna",
+      "roomSlug": "sea-view-suite"
+    },
+    {
+      "roomImage": "https://example.com/images/room2.jpg",
+      "roomTitle": "Blue View Room",
+      "bedroomCount": 2,
+      "hotelSlug": "hotel-seraton-khulna",
+      "roomSlug": "blue-view-room"
+    }
+  ],
+  "slug": "hotel-seraton-khulna",
+  "id": "1731477874500"
+}
